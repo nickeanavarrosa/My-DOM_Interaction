@@ -1,4 +1,3 @@
-app.js
 let score = 0;
 
 const countDisplay = document.getElementById("count");
